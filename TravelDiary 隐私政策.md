@@ -59,6 +59,6 @@ TravelDiary 不会与任何第三方共享、出售、出租或交易您的个�
 
 如果您对本隐私政策有任何疑问或疑虑，请通过以下方式联系我们：
 
-*   **开发者**: [jiahao li]
-*   **邮箱**: [gscassli@foxmail.com]
+*   **开发者**: jiahao li
+*   **邮箱**: gscassli@foxmail.com
 
