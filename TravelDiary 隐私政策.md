@@ -1,4 +1,4 @@
-[English](#privacy-policy) | [简体中文](#隐私政策-简体中文) | [繁體中文](#隱私權政策-繁體中文) | [日本語](#プライバシーポリシー-日本語) | [Español](#política-de-privacidad-español) | [Português (Brasil)](#política-de-privacidade-português---brasil) | [Tiếng Việt](#chính-sách-bảo-mật-tiếng-việt) | [한국어](#개인정보-처리방침-한국어) | [Italiano](#informativa-sulla-privacy-italiano) | [Deutsch](#datenschutzerklärung-deutsch)
+[English](#privacy-policy) | [简体中文](#隐私政策-简体中文) | [繁體中文](#隱私權政策-繁體中文) | [日本語](#プライバシーポリシー-日本語) | [Español](#política-de-privacidad-español) | [Português (Brasil)](#política-de-privacidade-português---brasil) | [Tiếng Việt](#chính-sách-bảo-mật-tiếng-việt) | [한국어](#개인정보-처리방침-한국어) | [Italiano](#informativa-sulla-privacy-italiano) | [Deutsch](#datenschutzerklärung-deutsch) | [Dansk](#privatlivspolitik-dansk)
 
 
 ---
@@ -610,3 +610,42 @@ Bei Fragen, Anmerkungen oder Vorschlägen zu dieser Datenschutzerklärung kontak
 
 *   **Entwickler**: jiahao li
 *   **E-Mail**: gscassli@foxmail.com
+
+---
+
+## Privatlivspolitik (Dansk)
+
+Velkommen til **Journal & Notes**!
+
+Denne privatlivspolitik forklarer, hvordan vi indsamler, bruger, opbevarer og beskytter dine personlige oplysninger, når du bruger vores mobilapplikation. Vi forstår, at dit privatliv er vigtigt, og vi er dedikerede til at beskytte dine personlige data.
+
+### 1. Oplysninger vi indsamler
+For at kunne tilbyde funktioner som journalisering, synkronisering, stemningsanalyse og geografisk mærkning, indsamler appen følgende typer oplysninger:
+
+* **Indhold du selv leverer**:
+    * **Tekst og titler**: Indholdet af de dagbøger, du opretter i appen.
+    * **Billeder og videoer**: Mediefiler, som du vælger fra din enhed.
+* **Oplysninger vi indsamler automatisk**:
+    * **Lokationsdata**: Med din tilladelse indsamler vi din enheds præcise geografiske placering, når du gemmer en dagbog.
+    * **Data fra stemningsanalyse**: Vi analyserer din tekst **lokalt på enheden** for at generere en stemningsscore.
+* **Datasynkronisering**:
+    * Appen bruger Apples **iCloud (CloudKit)** tjeneste. Dine data opbevares krypteret på din personlige iCloud-konto. Som udvikler har vi **ingen adgang** til dit indhold.
+
+### 2. Hvordan vi bruger dine oplysninger
+Vi bruger udelukkende dine oplysninger til at levere kernefunktioner, sikre synkronisering mellem dine enheder og muliggøre lokal stemningsanalyse. Vi kan gennemse anonyme diagnosticeringsdata (f.eks. crash-rapporter) for at forbedre appens stabilitet.
+
+### 3. Opbevaring og sikkerhed
+* **Lokal opbevaring**: Dine data gemmes sikkert lokalt på din enhed i en Core Data-database.
+* **Cloud-opbevaring**: Dine data gemmes via **end-to-end-kryptering** på din private iCloud-konto. Kun du har adgang til disse data.
+* **Sikkerhed**: Vi benytter Apples officielle frameworks, som anvender industristandarder for sikkerhed.
+
+### 4. Dine rettigheder
+Da dine data opbevares lokalt og på din egen iCloud-konto, har du fuld kontrol:
+* Du kan til enhver tid se, redigere eller slette dine dagbøger.
+* Du kan deaktivere lokalitetstjenester i systemindstillingerne.
+* Sletning af appen fjerner lokale data. iCloud-data administreres via dine Apple-ID indstillinger.
+
+### 5. Kontakt
+Hvis du har spørgsmål, er du velkommen til at kontakte os:
+* **Udvikler**: Jiahao Li
+* **E-mail**: gscassli@foxmail.com
